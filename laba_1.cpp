@@ -4,7 +4,7 @@
 #include <limits>
 
 double perimeter(double footing, double wall_left, double wall_right) {
-    return (footing + wall_left + wall_right);
+    return (footing + wall_left + wall_right); //комит 
 }
 
 double square(double footing, double wall_left, double wall_right) {
